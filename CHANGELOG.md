@@ -1,5 +1,8 @@
 # Revision History for chefdk_bootstrap
 
+## 1.5.0
+* Add option to install chefdk-julia
+
 ## 1.4.1
 * Install Vagrant via community Vagrant cookbook
 
